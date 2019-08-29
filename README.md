@@ -1,6 +1,6 @@
 
 <img width="600" alt="NLE" src="https://i.imgur.com/488nYbr.jpg">  <img display="inline" width="100" alt="EMNLP" src="https://i.imgur.com/8c0QJBF.jpg">
-### To Annotate or Not :question: Predicting Performance Drop under Domain Shift :mag_right:
+### To Annotate or Not:question:Predicting Performance Drop under Domain Shift :mag_right:
 ##### :heavy_check_mark: :page_with_curl: Paper accepted to EMNLP-IJCNLP 2019 :HK:
 
 ## :pill: tldr;
