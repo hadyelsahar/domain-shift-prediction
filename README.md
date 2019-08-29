@@ -17,6 +17,9 @@ We propose a method that is able to predict the drop in accuracy of a trained mo
 <p align="center"> <img width="400" alt="Approach overview" src="https://i.imgur.com/pmKzp4W.png"> </p>
 
 
+## Recipe for Practitioners to predict performance drop of a model for any new target domain
+
+
 ### Dataset
 #### Sentiment Analysis
 #### POS Tagging
