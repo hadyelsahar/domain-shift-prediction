@@ -1,7 +1,7 @@
 
 <img width="600" alt="NLE" src="https://i.imgur.com/488nYbr.jpg">  <img display="inline" width="100" alt="EMNLP" src="https://i.imgur.com/8c0QJBF.jpg">
 ### To Annotate or Not:question:Predicting Performance Drop under Domain Shift :mag_right:
-##### :heavy_check_mark: :page_with_curl: Paper accepted to EMNLP-IJCNLP 2019
+#####  EMNLP 2019 Paper :page_with_curl: 
 
 ## :pill: tldr;
 We propose a method that is able to predict the drop in accuracy of a trained model. Our method can predict the drop in accuracy with an error rate as little as 2.15% for sentiment analysis and 0.89% for POS tagging respectively, without needing any labeled examples from the target domain. 
