@@ -4,7 +4,7 @@
 #####  EMNLP 2019 Paper :page_with_curl: 
 
 ## :pill: tldr;
-We propose a method that is able to predict the drop in accuracy of a trained model. Our method can predict the drop in accuracy with an error rate as little as 2.15% for sentiment analysis and 0.89% for POS tagging respectively, without needing any labeled examples from the target domain. 
+We propose a method that is able to predict the drop in accuracy of a trained model. Our method can predict the drop in accuracy with an error rate as little as 2.15% for sentiment analysis and 0.89% for POS tagging respectively, without needing any labeled examples from the target domain, only assuming the availability of small fixed number of labeled evaluation datasets from several other domains. 
 
 ## :small_red_triangle_down: Brief
 
